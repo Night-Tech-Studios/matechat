@@ -4,7 +4,7 @@
 > A MelonLoader mod that enables AI chat and voice interactions with your Desktop Mate! ♪
 
 **! NOTE !**
-Desktop Mate no longer supports modding, thus this project will no longer be maintained and no support for it will be provided. Thanks for understanding.
+mate chat version 1.2.2 and further was an continuation of the mod from dvhsh, this update/fork its made by Realitrice(Night-Tech-Studios) 
 
 MateChat now supports multiple AI language models and text-to-speech capabilities, allowing for even more immersive interactions with your desktop companion~ ✧
 
